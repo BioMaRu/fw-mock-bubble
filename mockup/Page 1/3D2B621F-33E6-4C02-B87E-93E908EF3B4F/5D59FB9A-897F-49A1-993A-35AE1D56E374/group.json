@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "5D59FB9A-897F-49A1-993A-35AE1D56E374",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 302,
+    "width": 502,
+    "x": 548,
+    "y": 22
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "isEnabled": false,
+        "blurRadius": 14,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.8245110544217688,
+          "green": 0.8245110544217688,
+          "red": 0.8245110544217688
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "offsetX": 4,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "99208BA2-4CE9-4116-8FE5-50D6F1CE32E0",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "5D176E77-08E9-4B85-9461-66A6C2E1DB93",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "BDD694D2-AD62-4BC0-B760-515695F3201F",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "72D3B829-5645-4AEB-B63A-45FCC6E3A403",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "59E633B8-BD89-4FC0-A667-4BE5433BB420",
+      "class": "text"
+    },
+    {
+      "id": "5A22F8E6-08C8-4361-9436-5CEB9844405A",
+      "class": "group"
+    },
+    {
+      "id": "2032CEA5-D53E-4C88-AA86-58880E28317C",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "625FBDBE-B2C1-4E37-AFD2-EAEDCFABDB18",
+      "class": "text"
+    },
+    {
+      "id": "C9B46B38-73AB-41E4-B12F-B817CB9F8135",
+      "class": "group"
+    },
+    {
+      "id": "BF0EFB60-8EF7-4CA4-8EA3-9701E627D498",
+      "class": "group"
+    },
+    {
+      "id": "E07B5AED-07EA-41C0-8155-68EC57DDB610",
+      "class": "group"
+    }
+  ]
+}

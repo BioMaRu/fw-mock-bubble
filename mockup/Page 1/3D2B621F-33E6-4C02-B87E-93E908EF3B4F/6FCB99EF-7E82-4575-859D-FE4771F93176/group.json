@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "6FCB99EF-7E82-4575-859D-FE4771F93176",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 336,
+    "width": 502,
+    "x": 1063,
+    "y": 22
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "isEnabled": false,
+        "blurRadius": 14,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.8245110544217688,
+          "green": 0.8245110544217688,
+          "red": 0.8245110544217688
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "offsetX": 4,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "B8BD198F-A913-40CB-B6D4-6F4225C4B929",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "6AB7FD87-E2D5-44A0-BE44-3E230546166E",
+      "class": "text"
+    },
+    {
+      "id": "3FBB533D-6166-4958-9A1A-13B2585B24E3",
+      "class": "group"
+    },
+    {
+      "id": "F7A8E067-097A-401F-A22B-5B5B584FBC28",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "C36F8F1E-721B-46CC-8E1A-CE6C6F484C63",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "196442D9-074F-4B37-9D51-CB929499FDAF",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "66F440BE-7DF9-4521-96A8-9B1D43CCD0DB",
+      "class": "text"
+    },
+    {
+      "id": "71712635-077B-47FF-98B8-904381AEB71E",
+      "class": "group"
+    },
+    {
+      "id": "D759ED92-6BFB-4E85-85FA-ED0C7A6ABAFC",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "BDDD0F6B-7B70-4A53-8059-1477C57CE41B",
+      "class": "group"
+    },
+    {
+      "id": "74A6720C-5243-4553-B7C8-A952C48ACB87",
+      "class": "group"
+    }
+  ]
+}
