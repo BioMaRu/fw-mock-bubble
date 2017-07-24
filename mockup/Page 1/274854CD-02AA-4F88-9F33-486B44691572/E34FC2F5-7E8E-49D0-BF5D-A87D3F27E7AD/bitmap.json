@@ -1,13 +1,17 @@
 {
   "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "do_objectID": "E34FC2F5-7E8E-49D0-BF5D-A87D3F27E7AD",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
@@ -16,6 +20,11 @@
     "x": 1255,
     "y": 630
   },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c68bea5cf3434bb1a4ed54b7ce7d66a111d7d8fc",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -23,6 +32,8 @@
   "layerListExpandedType": 0,
   "name": "Screen Shot 2560-07-23 at 5.59.23 PM",
   "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -32,14 +43,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "fillReplacesImage": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref_class": "MSImageData",
-    "_ref": "images/c68bea5cf3434bb1a4ed54b7ce7d66a111d7d8fc"
-  },
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}"
+  }
 }

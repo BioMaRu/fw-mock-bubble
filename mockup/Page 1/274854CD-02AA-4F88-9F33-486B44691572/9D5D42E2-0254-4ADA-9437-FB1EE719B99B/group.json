@@ -3,8 +3,10 @@
   "do_objectID": "9D5D42E2-0254-4ADA-9437-FB1EE719B99B",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,30 @@
     "x": 96,
     "y": 88
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "45A9C989-B64A-4855-B4E2-E3047D603F08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7365B67-C6C9-4857-83E0-C5674E8B9A27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4CD3E4B1-8525-4338-B304-F232AD79A9B8"
+    },
+    {
+      "class": "bitmap",
+      "id": "898AC531-C082-41DA-9BF8-C07474DE80A9"
+    }
+  ],
   "name": "Base Graphic Copy",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -32,24 +53,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "45A9C989-B64A-4855-B4E2-E3047D603F08",
-      "class": "bitmap"
-    },
-    {
-      "id": "F7365B67-C6C9-4857-83E0-C5674E8B9A27",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "4CD3E4B1-8525-4338-B304-F232AD79A9B8",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "898AC531-C082-41DA-9BF8-C07474DE80A9",
-      "class": "bitmap"
-    }
-  ]
+  }
 }
