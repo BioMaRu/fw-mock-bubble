@@ -34,8 +34,8 @@
       "id": "BDACE8A4-0487-4148-8AB7-ADDEFB41968F"
     }
   ],
-  "name": "Group 3",
-  "nameIsFixed": false,
+  "name": "Button",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

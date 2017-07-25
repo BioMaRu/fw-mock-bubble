@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 482,
-    "x": 12,
-    "y": 111
+    "height": 33,
+    "width": 502,
+    "x": 0,
+    "y": 99
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -32,10 +32,14 @@
     {
       "class": "shapeGroup",
       "id": "48460C00-83B0-4D1A-BB37-0F8227CD00CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A810DCDC-D611-43EC-B553-B5E9BB2FDF6D"
     }
   ],
-  "name": "Group 4",
-  "nameIsFixed": false,
+  "name": "List",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

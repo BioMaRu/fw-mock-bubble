@@ -35,7 +35,7 @@
     "y": -158
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -65,6 +65,10 @@
       "id": "05BAAD71-E9A8-4739-B00E-E0D248A41348"
     },
     {
+      "class": "group",
+      "id": "606388ED-D4C2-409C-A5F7-9D09F4E31833"
+    },
+    {
       "class": "shapeGroup",
       "id": "58BD2BEC-8955-485C-BE9A-A87FFF42FABB"
     },
@@ -75,14 +79,6 @@
     {
       "class": "bitmap",
       "id": "E34FC2F5-7E8E-49D0-BF5D-A87D3F27E7AD"
-    },
-    {
-      "class": "group",
-      "id": "25EAC501-DE97-4E5F-973C-2989C9141B7A"
-    },
-    {
-      "class": "group",
-      "id": "70D31D08-02B4-4D42-B3AA-673FC61F82A5"
     }
   ],
   "name": "Artboard",

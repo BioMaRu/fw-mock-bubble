@@ -34,8 +34,8 @@
       "id": "AC80FAB9-1CCA-4F8C-81D3-050564450D1A"
     }
   ],
-  "name": "Group 3",
-  "nameIsFixed": false,
+  "name": "Button",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

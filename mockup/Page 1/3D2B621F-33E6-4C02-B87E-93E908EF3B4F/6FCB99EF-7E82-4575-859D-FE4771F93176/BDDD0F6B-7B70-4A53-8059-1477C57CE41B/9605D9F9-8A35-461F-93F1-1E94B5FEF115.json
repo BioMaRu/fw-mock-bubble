@@ -122,7 +122,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             16,
-            "Thonburi-Bold",
+            "Thonburi",
             {
               "$classes": [
                 "NSMutableDictionary",
@@ -142,6 +142,7 @@
               "$class": {
                 "UID": 23
               },
+              "NSAlignment": 2,
               "NSAllowsTighteningForTruncation": 1,
               "NSTabStops": {
                 "UID": 0
@@ -170,10 +171,11 @@
             },
             {
               "$classes": [
+                "NSMutableParagraphStyle",
                 "NSParagraphStyle",
                 "NSObject"
               ],
-              "$classname": "NSParagraphStyle"
+              "$classname": "NSMutableParagraphStyle"
             },
             0,
             {
@@ -221,7 +223,7 @@
     "x": 10,
     "y": 12
   },
-  "glyphBounds": "{{0, 2}, {329, 16}}",
+  "glyphBounds": "{{76, 1}, {329, 17}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -281,7 +283,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 16,
-                "Thonburi-Bold",
+                "Thonburi",
                 {
                   "$classes": [
                     "NSMutableDictionary",
@@ -367,6 +369,7 @@
                   "$class": {
                     "UID": 4
                   },
+                  "NSAlignment": 2,
                   "NSAllowsTighteningForTruncation": 1,
                   "NSTabStops": {
                     "UID": 0
@@ -395,10 +398,11 @@
                 },
                 {
                   "$classes": [
+                    "NSMutableParagraphStyle",
                     "NSParagraphStyle",
                     "NSObject"
                   ],
-                  "$classname": "NSParagraphStyle"
+                  "$classname": "NSMutableParagraphStyle"
                 }
               ],
               "$top": {

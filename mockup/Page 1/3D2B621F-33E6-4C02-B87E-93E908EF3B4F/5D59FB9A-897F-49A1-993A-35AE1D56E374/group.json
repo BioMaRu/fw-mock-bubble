@@ -23,39 +23,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "99208BA2-4CE9-4116-8FE5-50D6F1CE32E0"
     },
     {
-      "class": "shapeGroup",
-      "id": "5D176E77-08E9-4B85-9461-66A6C2E1DB93"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "BDD694D2-AD62-4BC0-B760-515695F3201F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "72D3B829-5645-4AEB-B63A-45FCC6E3A403"
-    },
-    {
-      "class": "text",
-      "id": "59E633B8-BD89-4FC0-A667-4BE5433BB420"
-    },
-    {
       "class": "group",
-      "id": "5A22F8E6-08C8-4361-9436-5CEB9844405A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2032CEA5-D53E-4C88-AA86-58880E28317C"
-    },
-    {
-      "class": "text",
-      "id": "625FBDBE-B2C1-4E37-AFD2-EAEDCFABDB18"
+      "id": "69D597B1-604E-4E25-8FA4-729DC2716C9C"
     },
     {
       "class": "group",
@@ -66,12 +42,20 @@
       "id": "BF0EFB60-8EF7-4CA4-8EA3-9701E627D498"
     },
     {
+      "class": "shapeGroup",
+      "id": "72D3B829-5645-4AEB-B63A-45FCC6E3A403"
+    },
+    {
       "class": "group",
       "id": "E07B5AED-07EA-41C0-8155-68EC57DDB610"
+    },
+    {
+      "class": "text",
+      "id": "59E633B8-BD89-4FC0-A667-4BE5433BB420"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Bubble",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

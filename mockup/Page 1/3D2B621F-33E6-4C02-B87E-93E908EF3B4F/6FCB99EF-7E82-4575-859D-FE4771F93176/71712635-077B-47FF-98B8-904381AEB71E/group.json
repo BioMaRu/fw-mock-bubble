@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 480,
-    "x": 12,
-    "y": 111
+    "height": 33,
+    "width": 502,
+    "x": 0,
+    "y": 99
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -32,10 +32,14 @@
     {
       "class": "shapeGroup",
       "id": "850855E4-2A1A-4CC1-9D0B-7B6F7E50BE43"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D759ED92-6BFB-4E85-85FA-ED0C7A6ABAFC"
     }
   ],
-  "name": "Group 4",
-  "nameIsFixed": false,
+  "name": "List",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

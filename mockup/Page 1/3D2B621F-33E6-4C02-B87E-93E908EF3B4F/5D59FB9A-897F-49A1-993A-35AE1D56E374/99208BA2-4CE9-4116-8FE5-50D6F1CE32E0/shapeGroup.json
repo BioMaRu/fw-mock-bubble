@@ -32,8 +32,8 @@
       "id": "DCA6F70B-DE13-414D-84D4-5C123684C391"
     }
   ],
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "Base",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

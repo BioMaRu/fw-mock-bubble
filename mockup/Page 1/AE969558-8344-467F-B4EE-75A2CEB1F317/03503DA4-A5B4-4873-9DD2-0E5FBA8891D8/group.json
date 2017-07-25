@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "03503DA4-A5B4-4873-9DD2-0E5FBA8891D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 570,
+    "width": 502,
+    "x": 35,
+    "y": 166
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4661586E-1470-4D00-99DA-6000A606DC44"
+    },
+    {
+      "class": "bitmap",
+      "id": "B7F5FCE8-4DFE-49A7-8699-591E3E43F08B"
+    },
+    {
+      "class": "group",
+      "id": "6A5BB512-6EE0-4AB2-90A1-1AEE639AAD7E"
+    },
+    {
+      "class": "group",
+      "id": "9970927D-76C0-40E1-A420-C9F418B13FCB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BF4B0463-D147-462B-9404-A3FBA20EECC3"
+    },
+    {
+      "class": "text",
+      "id": "800B574A-2387-4864-AF4F-CA3988475B27"
+    }
+  ],
+  "name": "Bubble",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 14,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.8245110544217688,
+          "green": 0.8245110544217688,
+          "red": 0.8245110544217688
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 4,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

@@ -54,8 +54,8 @@
       "id": "6FCB99EF-7E82-4575-859D-FE4771F93176"
     }
   ],
-  "name": "Artboard 3",
-  "nameIsFixed": false,
+  "name": "Template",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

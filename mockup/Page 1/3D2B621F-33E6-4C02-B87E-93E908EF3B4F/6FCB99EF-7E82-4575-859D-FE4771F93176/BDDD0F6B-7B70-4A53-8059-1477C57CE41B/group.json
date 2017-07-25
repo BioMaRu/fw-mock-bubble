@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
+    "height": 134,
     "width": 502,
     "x": 0,
     "y": 144
@@ -36,10 +36,14 @@
     {
       "class": "shapeGroup",
       "id": "A14727E1-EC46-4A7E-914A-8521F8534335"
+    },
+    {
+      "class": "text",
+      "id": "6AB7FD87-E2D5-44A0-BE44-3E230546166E"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "List",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

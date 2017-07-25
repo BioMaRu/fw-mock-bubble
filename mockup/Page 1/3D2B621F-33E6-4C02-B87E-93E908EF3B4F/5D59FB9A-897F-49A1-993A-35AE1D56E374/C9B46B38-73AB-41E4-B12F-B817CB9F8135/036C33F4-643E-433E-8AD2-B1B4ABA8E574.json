@@ -19,7 +19,7 @@
                 "UID": 2
               }
             },
-            "หักภาษี 3% สำหรับจ่างงานในนามบริษัทอย่างไร ?",
+            "หักภาษี 3% สำหรับจ้างงานในนามบริษัทอย่างไร ?",
             {
               "$class": {
                 "UID": 25
@@ -231,7 +231,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "หักภาษี 3% สำหรับจ่า",
+  "name": "หักภาษี 3% สำหรับจ้า",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
