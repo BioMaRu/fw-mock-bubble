@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "A51FA778-3EB0-4F14-AFF4-EF0716F05C91",
+  "do_objectID": "A788E130-9750-48BE-B0CC-847360B4EE1A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 8,
-    "width": 8,
-    "x": 307,
-    "y": 10
+    "constrainProportions": true,
+    "height": 5,
+    "width": 5,
+    "x": 16,
+    "y": 78
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,11 +28,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "F6245C1C-563D-4F19-86DA-A0184CD17A20"
+      "class": "oval",
+      "id": "E2C553AC-4997-4326-85BD-88129AB7C937"
     }
   ],
-  "name": "Page 1",
+  "name": "Oval 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,6 +40,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -47,15 +63,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8627450980392157,
-          "green": 0.4509803921568629,
-          "red": 0.196078431372549
+          "blue": 0.9137254901960784,
+          "green": 0.5098039215686275,
+          "red": 0.05882352941176468
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],

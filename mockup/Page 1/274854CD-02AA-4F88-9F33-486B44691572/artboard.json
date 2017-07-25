@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9137254901960784,
-    "green": 0.5098039215686275,
-    "red": 0.05882352941176468
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "do_objectID": "274854CD-02AA-4F88-9F33-486B44691572",
   "exportOptions": {
@@ -17,7 +17,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -35,7 +35,7 @@
     "y": -158
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -81,8 +81,8 @@
       "id": "E34FC2F5-7E8E-49D0-BF5D-A87D3F27E7AD"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Example Artboard",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

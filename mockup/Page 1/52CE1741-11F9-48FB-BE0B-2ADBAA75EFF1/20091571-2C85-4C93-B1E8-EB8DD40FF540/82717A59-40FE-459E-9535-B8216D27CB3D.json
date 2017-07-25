@@ -10,10 +10,7 @@
             "$null",
             {
               "$class": {
-                "UID": 47
-              },
-              "NSAttributeInfo": {
-                "UID": 45
+                "UID": 26
               },
               "NSAttributes": {
                 "UID": 3
@@ -22,28 +19,15 @@
                 "UID": 2
               }
             },
-            "คุณสามารถดาวน์โหลดใบเสนอราคาได้เมื่อกดเลือกการ ชำระเงิน แล้ว กด จ้างงานนี้อีก หากต้องการเปิดออเดอร์ใหม่\n",
+            "คำแนะนำ",
             {
               "$class": {
-                "UID": 44
+                "UID": 25
               },
-              "NS.objects": [
+              "NS.keys": [
                 {
                   "UID": 4
                 },
-                {
-                  "UID": 27
-                },
-                {
-                  "UID": 36
-                }
-              ]
-            },
-            {
-              "$class": {
-                "UID": 26
-              },
-              "NS.keys": [
                 {
                   "UID": 5
                 },
@@ -52,23 +36,20 @@
                 },
                 {
                   "UID": 7
-                },
-                {
-                  "UID": 8
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 9
+                  "UID": 8
                 },
                 {
-                  "UID": 13
+                  "UID": 12
                 },
                 {
-                  "UID": 21
+                  "UID": 20
                 },
                 {
-                  "UID": 25
+                  "UID": 24
                 }
               ]
             },
@@ -78,11 +59,11 @@
             "NSKern",
             {
               "$class": {
-                "UID": 12
+                "UID": 11
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 10
+                "UID": 9
               },
               "NSRGB": {
                 "data": "0.05882352941 0.5098039216 0.9137254902\u0000",
@@ -91,7 +72,7 @@
             },
             {
               "$class": {
-                "UID": 11
+                "UID": 10
               },
               "NSID": 1
             },
@@ -111,37 +92,37 @@
             },
             {
               "$class": {
-                "UID": 20
+                "UID": 19
               },
               "NSFontDescriptorAttributes": {
-                "UID": 14
+                "UID": 13
               }
             },
             {
               "$class": {
-                "UID": 19
+                "UID": 18
               },
               "NS.keys": [
                 {
-                  "UID": 15
+                  "UID": 14
                 },
                 {
-                  "UID": 16
+                  "UID": 15
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 17
+                  "UID": 16
                 },
                 {
-                  "UID": 18
+                  "UID": 17
                 }
               ]
             },
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
-            14,
-            "Thonburi",
+            16,
+            "Thonburi-Bold",
             {
               "$classes": [
                 "NSMutableDictionary",
@@ -159,23 +140,23 @@
             },
             {
               "$class": {
-                "UID": 24
+                "UID": 23
               },
               "NSAllowsTighteningForTruncation": 1,
               "NSTabStops": {
                 "UID": 0
               },
               "NSTextBlocks": {
-                "UID": 22
+                "UID": 21
               },
               "NSTextLists": {
-                "UID": 22
+                "UID": 21
               },
               "NSWritingDirection": 1
             },
             {
               "$class": {
-                "UID": 23
+                "UID": 22
               },
               "NS.objects": [
               ]
@@ -203,217 +184,6 @@
               "$classname": "NSDictionary"
             },
             {
-              "$class": {
-                "UID": 26
-              },
-              "NS.keys": [
-                {
-                  "UID": 8
-                },
-                {
-                  "UID": 28
-                },
-                {
-                  "UID": 29
-                },
-                {
-                  "UID": 5
-                },
-                {
-                  "UID": 30
-                },
-                {
-                  "UID": 7
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 25
-                },
-                {
-                  "UID": 31
-                },
-                {
-                  "UID": 25
-                },
-                {
-                  "UID": 9
-                },
-                {
-                  "UID": 35
-                },
-                {
-                  "UID": 21
-                }
-              ]
-            },
-            "MSAttributedStringFontAttribute",
-            "NSStrikethrough",
-            "NSUnderline",
-            {
-              "$class": {
-                "UID": 20
-              },
-              "NSFontDescriptorAttributes": {
-                "UID": 32
-              }
-            },
-            {
-              "$class": {
-                "UID": 19
-              },
-              "NS.keys": [
-                {
-                  "UID": 33
-                },
-                {
-                  "UID": 34
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 17
-                },
-                {
-                  "UID": 18
-                }
-              ]
-            },
-            "NSFontSizeAttribute",
-            "NSFontNameAttribute",
-            1,
-            {
-              "$class": {
-                "UID": 26
-              },
-              "NS.keys": [
-                {
-                  "UID": 8
-                },
-                {
-                  "UID": 37
-                },
-                {
-                  "UID": 29
-                },
-                {
-                  "UID": 5
-                },
-                {
-                  "UID": 30
-                },
-                {
-                  "UID": 7
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 25
-                },
-                {
-                  "UID": 38
-                },
-                {
-                  "UID": 25
-                },
-                {
-                  "UID": 42
-                },
-                {
-                  "UID": 25
-                },
-                {
-                  "UID": 43
-                }
-              ]
-            },
-            "MSAttributedStringFontAttribute",
-            {
-              "$class": {
-                "UID": 20
-              },
-              "NSFontDescriptorAttributes": {
-                "UID": 39
-              }
-            },
-            {
-              "$class": {
-                "UID": 19
-              },
-              "NS.keys": [
-                {
-                  "UID": 40
-                },
-                {
-                  "UID": 41
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 17
-                },
-                {
-                  "UID": 18
-                }
-              ]
-            },
-            "NSFontSizeAttribute",
-            "NSFontNameAttribute",
-            {
-              "$class": {
-                "UID": 12
-              },
-              "NSColorSpace": 1,
-              "NSCustomColorSpace": {
-                "UID": 10
-              },
-              "NSRGB": {
-                "data": "0.05882352941 0.5098039216 0.9137254902\u0000",
-                "type": "Buffer"
-              }
-            },
-            {
-              "$class": {
-                "UID": 24
-              },
-              "NSAllowsTighteningForTruncation": 1,
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSTextBlocks": {
-                "UID": 22
-              },
-              "NSTextLists": {
-                "UID": 22
-              },
-              "NSWritingDirection": 1
-            },
-            {
-              "$classes": [
-                "NSMutableArray",
-                "NSArray",
-                "NSObject"
-              ],
-              "$classname": "NSMutableArray"
-            },
-            {
-              "$class": {
-                "UID": 46
-              },
-              "NS.data": {
-                "data": "/\u0000\t\u0001\b\u0000\r\u0001\u0001\u0002\u001a\u0000",
-                "type": "Buffer"
-              }
-            },
-            {
-              "$classes": [
-                "NSMutableData",
-                "NSData",
-                "NSObject"
-              ],
-              "$classname": "NSMutableData"
-            },
-            {
               "$classes": [
                 "NSAttributedString",
                 "NSObject"
@@ -432,7 +202,7 @@
     }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "82537AFA-5A16-444D-B535-5D1DDAA97840",
+  "do_objectID": "82717A59-40FE-459E-9535-B8216D27CB3D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -446,12 +216,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 90,
-    "width": 251,
-    "x": 28,
-    "y": 33
+    "height": 21,
+    "width": 63,
+    "x": 16,
+    "y": 8
   },
-  "glyphBounds": "{{0, -1}, {243, 71}}",
+  "glyphBounds": "{{0, 2}, {62, 16}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -459,9 +229,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "คุณสามารถดาวน์โหลดใบ",
+  "name": "คำแนะนำ",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -510,8 +280,8 @@
                 },
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
-                14,
-                "Thonburi",
+                16,
+                "Thonburi-Bold",
                 {
                   "$classes": [
                     "NSMutableDictionary",

@@ -22,7 +22,7 @@
                 "UID": 2
               }
             },
-            "คุณสามารถดาวน์โหลดใบเสนอราคาได้เมื่อกดเลือกการ ชำระเงิน แล้ว กด จ้างงานนี้อีก หากต้องการเปิดออเดอร์ใหม่\n",
+            "คุณสามารถดาวน์โหลดใบเสนอราคาได้เมื่อกดเลือกการ ชำระเงิน แล้ว กด จ้างงานนี้อีก หากต้องการเปิดออเดอร์ใหม่\nหากต้องการเปลี่ยนสัญญาหลังกดเลือกการชำระเงินแล้ว กรุณากดปุ่ม เปลี่ยนวิธีการชำระเงิน ก่อน\nหากต้องการจ้างแบบบริษัท กรุณาแก้ไขที่โปรไฟล์ ก่อน",
             {
               "$class": {
                 "UID": 44
@@ -401,7 +401,7 @@
                 "UID": 46
               },
               "NS.data": {
-                "data": "/\u0000\t\u0001\b\u0000\r\u0001\u0001\u0002\u001a\u0000",
+                "data": "/\u0000\t\u0001\b\u0000\r\u0001\u0001\u0002W\u0000\u0016\u0001+\u0000\u0007\u0001\u0001\u0002\u0004\u0000",
                 "type": "Buffer"
               }
             },
@@ -432,7 +432,7 @@
     }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "82537AFA-5A16-444D-B535-5D1DDAA97840",
+  "do_objectID": "363AB016-789D-4D8C-B4BA-E8E9759FF24D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -446,12 +446,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 90,
+    "height": 162,
     "width": 251,
     "x": 28,
     "y": 33
   },
-  "glyphBounds": "{{0, -1}, {243, 71}}",
+  "glyphBounds": "{{0, -1}, {243, 161}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

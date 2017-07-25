@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 390,
+    "height": 708,
     "width": 1584,
     "x": -366,
-    "y": -607
+    "y": -925
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,9 +61,17 @@
     {
       "class": "group",
       "id": "6FCB99EF-7E82-4575-859D-FE4771F93176"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF4DC405-C28D-416E-BD33-9EB7C2493147"
+    },
+    {
+      "class": "text",
+      "id": "8C4A09BB-B0BC-4CED-81AC-4FCCE987522F"
     }
   ],
-  "name": "Template",
+  "name": "Example Template",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

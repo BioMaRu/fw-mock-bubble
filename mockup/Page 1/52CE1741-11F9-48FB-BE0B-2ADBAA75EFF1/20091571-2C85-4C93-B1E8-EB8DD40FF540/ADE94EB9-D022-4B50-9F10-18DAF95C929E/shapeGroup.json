@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "9053115B-D214-4E51-A2A0-C72A346A962D",
+  "do_objectID": "ADE94EB9-D022-4B50-9F10-18DAF95C929E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 5,
-    "width": 5,
-    "x": 16,
-    "y": 168
+    "constrainProportions": false,
+    "height": 8,
+    "width": 8,
+    "x": 307,
+    "y": 10
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,14 +25,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "oval",
-      "id": "3C642798-203E-4033-A589-3D060C534180"
+      "class": "shapePath",
+      "id": "01A4F130-4810-4E97-883E-4F7E2D301DAB"
     }
   ],
-  "name": "Oval 2",
+  "name": "Page 1",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,22 +40,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -63,15 +47,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9137254901960784,
-          "green": 0.5098039215686275,
-          "red": 0.05882352941176468
+          "blue": 0.8627450980392157,
+          "green": 0.4509803921568629,
+          "red": 0.196078431372549
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],

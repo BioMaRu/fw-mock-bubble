@@ -21,9 +21,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 373,
-    "width": 682,
-    "x": -366,
-    "y": -1051
+    "width": 703,
+    "x": 536,
+    "y": -1348
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -39,11 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "F696EE4C-6A6B-49BB-A493-18371E9EA8EF"
+    },
+    {
+      "class": "group",
+      "id": "20091571-2C85-4C93-B1E8-EB8DD40FF540"
     }
   ],
   "name": "Free",
